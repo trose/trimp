@@ -1,6 +1,6 @@
 {
   "name": "trimp",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "main": "dist/index.js",
   "directories": {
     "doc": "docs",
@@ -13,7 +13,7 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "description": "",
   "devDependencies": {
     "@types/node": "^24.5.2",
